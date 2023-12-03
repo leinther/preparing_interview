@@ -6,7 +6,9 @@
     - [Что такое HTTP протокол](#http-протокол)
 - ### Django
     - [Документация](#django)
-    - [Плейлист по веб-разработке на Django от VK team](#django) 
+    - [Плейлист по веб-разработке на Django от VK team](#django)
+- ### [SQL](#sql)
+
 -------------------------------------------------
 
 ### HTTP протокол
@@ -19,3 +21,8 @@
 - > [Документация](https://docs.djangoproject.com/en/4.2/)
 - > [Плейлист по веб-разработке на Django от VK team](https://www.youtube.com/watch?v=Ys2CB4C2NWA&list=PLrCZzMib1e9qZwq95WVmGB-acnot5ka4a&index=1)
 - > [Как работает Django](https://practicum.yandex.ru/blog/framework-django/)
+
+### SQL 
+- > [Тренажер PostgreSQL](https://pgexercises.com/questions/basic/selectall.html)
+- > [SQL Academy (только язык SQL запросов)](https://sql-academy.org/ru/guide)
+- > [Learn DB (только язык SQL запросов)](https://learndb.ru/articles)
