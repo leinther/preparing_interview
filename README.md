@@ -8,11 +8,13 @@
     - [Документация](#django)
     - [Плейлист по веб-разработке на Django от VK team](#django)
 - ### [SQL](#sql)
+- ### Парадигмы программирования
+    - [Объектно-ориентированное программирование] (
+      
 
 -------------------------------------------------
 
 ### HTTP протокол
-
 - > [История разваития HTTP и немного о нём](https://cs.fyi/guide/http-in-depth)
 - > [Материал от Cloudefire](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
 - > [Полное объяснение от Mozilla](https://developer.mozilla.org/ru/docs/Web/HTTP/Overview)
@@ -26,3 +28,6 @@
 - > [Тренажер PostgreSQL](https://pgexercises.com/questions/basic/selectall.html)
 - > [SQL Academy (только язык SQL запросов)](https://sql-academy.org/ru/guide)
 - > [Learn DB (только язык SQL запросов)](https://learndb.ru/articles)
+
+### ООП
+- > [ООП в python (учебное пособие МГУ)](https://cmp.phys.msu.su/sites/default/files/%D0%9E%D0%9E%D0%9F_%D0%BD%D0%B0_Python_%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%B8%D0%B5_var7.pdf)
