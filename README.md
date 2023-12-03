@@ -28,7 +28,7 @@
 - > [Как работает Django](https://practicum.yandex.ru/blog/framework-django/)
 
 ### ORM 
--> Что такое ORM
+-> [Что такое ORM](https://appmaster.io/ru/glossary/orm-object-relational-mapping-3)
 
 ### SQL 
 - > [Тренажер PostgreSQL](https://pgexercises.com/questions/basic/selectall.html)
