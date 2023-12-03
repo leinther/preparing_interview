@@ -8,6 +8,7 @@
     - #### Django
         - [Документация](#django)
         - [Плейлист по веб-разработке на Django от VK team](#django)
+    - ### [ORM](#orm)
 - ### [SQL](#sql)
 - ### Парадигмы программирования
     - [Объектно-ориентированное программирование](#ооп)
@@ -25,6 +26,9 @@
 - > [Документация](https://docs.djangoproject.com/en/4.2/)
 - > [Плейлист по веб-разработке на Django от VK team](https://www.youtube.com/watch?v=Ys2CB4C2NWA&list=PLrCZzMib1e9qZwq95WVmGB-acnot5ka4a&index=1)
 - > [Как работает Django](https://practicum.yandex.ru/blog/framework-django/)
+
+### ORM 
+-> Что такое ORM
 
 ### SQL 
 - > [Тренажер PostgreSQL](https://pgexercises.com/questions/basic/selectall.html)
