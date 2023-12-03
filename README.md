@@ -15,4 +15,4 @@
 - > [Матриал от Cloudefire](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
   
 ### Django
-- > [Документация]((https://docs.djangoproject.com/en/4.2/)https://docs.djangoproject.com/en/4.2/)
+- > [Документация](https://docs.djangoproject.com/en/4.2/)
