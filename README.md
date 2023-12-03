@@ -5,7 +5,7 @@
 - ### Сеть
     - [Что такое HTTP протокол](#http-протокол)
 - ### Django
-      - [Документация](#django)
+    - [Документация](#django)
 
 
 ### HTTP протокол
@@ -15,4 +15,4 @@
 - > [Матриал от Cloudefire](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
   
 ### Django
--> [Документация](https://github.com/leinther/preparing_interview)
+- > [Документация](https://github.com/leinther/preparing_interview)
