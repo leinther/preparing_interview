@@ -11,9 +11,9 @@
 
 ### HTTP протокол
 
-- > [Всё про HTTP (история создания) и т.д.](https://cs.fyi/guide/http-in-depth)
+- > [История разваития HTTP и немного о нём](https://cs.fyi/guide/http-in-depth)
 - > [Материал от Cloudefire](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
-- > [Объяснение от Mozilla](https://developer.mozilla.org/ru/docs/Web/HTTP/Overview)
+- > [Полное объяснение от Mozilla](https://developer.mozilla.org/ru/docs/Web/HTTP/Overview)
   
 ### Django
 - > [Документация](https://docs.djangoproject.com/en/4.2/)
