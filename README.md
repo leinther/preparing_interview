@@ -1,5 +1,5 @@
 # Подготовка к собеседованию 
-![silicon] (https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.film.ru%2Farticles%2Fteoriya-bolshogo-kremnya&psig=AOvVaw03EBoSiT7TVEICev6oDyni&ust=1701681591585000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjt-If48oIDFQAAAAAdAAAAABAK)
+![silicon] (https://www.film.ru/sites/default/files/images/MV5BMGQ1MzRmMGQtY.jpg)
 ## Сеть
 - [Что такое HTTP протокол] (#HTTP-протокол)
 
