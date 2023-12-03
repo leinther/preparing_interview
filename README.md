@@ -1,5 +1,5 @@
 # Подготовка к собеседованию 
-![silicon] (https://www.film.ru/sites/default/files/images/MV5BMGQ1MzRmMGQtY.jpg)
+![silicon](https://www.kino-teatr.ru/art/3591/43340.jpg)
 ## Сеть
 - [Что такое HTTP протокол] (#HTTP-протокол)
 
@@ -11,5 +11,4 @@
 
 
 > [Матриал от Cloudefire](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
-
 
