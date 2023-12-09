@@ -26,6 +26,7 @@
 - > [Документация](https://docs.djangoproject.com/en/4.2/)
 - > [Плейлист по веб-разработке на Django от VK team](https://www.youtube.com/watch?v=Ys2CB4C2NWA&list=PLrCZzMib1e9qZwq95WVmGB-acnot5ka4a&index=1)
 - > [Как работает Django](https://practicum.yandex.ru/blog/framework-django/)
+- > [MVT паттерн проектирования](https://github.com/leinther/preparing_interview/blob/main/djangomvtbased-control-flow.png)
 
 ### ORM 
 - > [Что такое ORM](https://appmaster.io/ru/glossary/orm-object-relational-mapping-3)
