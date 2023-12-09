@@ -35,9 +35,9 @@
 - > [SQL Academy (только язык SQL запросов)](https://sql-academy.org/ru/guide)
 - > [Learn DB (только язык SQL запросов)](https://learndb.ru/articles)
 - > [Шпаргалка по SQL Database](https://habr.com/ru/articles/564390/)
-- > [Книги по SQL](https://github.com/leinther/preparing_interview/main/SQL.pdf)
-    - 
-### ООП
+- > ### Книги по SQL
+    - [SQL полное руководство](https://github.com/leinther/preparing_interview/blob/main/SQL.pdf)
+#### ООП
 - > [ООП в python (учебное пособие МГУ)](https://cmp.phys.msu.su/sites/default/files/%D0%9E%D0%9E%D0%9F_%D0%BD%D0%B0_Python_%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%B8%D0%B5_var7.pdf)
 
 ### Python
