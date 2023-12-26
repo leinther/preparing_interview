@@ -49,6 +49,7 @@
 ### Python
 - > [Магические методы](https://rszalski.github.io/magicmethods/)
 - > [Битовые операции](https://timeweb.cloud/tutorials/python/pobitovye-operatory-python-rukovodstvo)
+- > [Как устроены итераторы и генераторы в Python](https://habr.com/ru/articles/337314/)
 
 ### Структуры данных
 - > Хеш-таблицы
