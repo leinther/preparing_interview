@@ -54,6 +54,8 @@
 - > Что такое декоратор?
   - [Как работает декоратор](https://thecode.media/decorator/)
   - [Как работает декоратор, вторая часть](https://pavel-karateev.gitbook.io/intermediate-python/dekoratory/decorators)
+  - [Как работает память](https://realpython.com/python-memory-management/)
+  
 
 ### Структуры данных
 - > Хеш-таблицы
