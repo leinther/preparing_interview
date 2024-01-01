@@ -50,6 +50,9 @@
 - > [Магические методы](https://rszalski.github.io/magicmethods/)
 - > [Битовые операции](https://timeweb.cloud/tutorials/python/pobitovye-operatory-python-rukovodstvo)
 - > [Как устроены итераторы и генераторы в Python](https://habr.com/ru/articles/337314/)
+- > Что такое декоратор?
+  - [Как работает декоратор](https://thecode.media/decorator/)
+  - [Как работает декоратор, вторая часть](https://pavel-karateev.gitbook.io/intermediate-python/dekoratory/decorators)
 
 ### Структуры данных
 - > Хеш-таблицы
