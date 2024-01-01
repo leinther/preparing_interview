@@ -44,10 +44,18 @@
 #### ООП
 - > [ООП в python (учебное пособие МГУ)](https://cmp.phys.msu.su/sites/default/files/%D0%9E%D0%9E%D0%9F_%D0%BD%D0%B0_Python_%D0%A3%D1%87%D0%B5%D0%B1%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%BE%D1%81%D0%BE%D0%B1%D0%B8%D0%B5_var7.pdf)
 - > [Паттерны ООП и более бодробно про модификаторы доступа](https://vc.ru/u/1389654-machine-learning/654650-the-zen-of-pythonic-oop-luchshie-praktiki-i-shablony-proektirovaniya)
+- > [Метаклассы](https://habr.com/ru/articles/145835/)
+- > [Лекция от MIT](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-8-object-oriented-programming/)
 
 ### Python
 - > [Магические методы](https://rszalski.github.io/magicmethods/)
 - > [Битовые операции](https://timeweb.cloud/tutorials/python/pobitovye-operatory-python-rukovodstvo)
+- > [Как устроены итераторы и генераторы в Python](https://habr.com/ru/articles/337314/)
+- > Что такое декоратор?
+  - [Как работает декоратор](https://thecode.media/decorator/)
+  - [Как работает декоратор, вторая часть](https://pavel-karateev.gitbook.io/intermediate-python/dekoratory/decorators)
+  - [Как работает память](https://realpython.com/python-memory-management/)
+  
 
 ### Структуры данных
 - > Хеш-таблицы
