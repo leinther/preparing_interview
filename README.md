@@ -43,7 +43,7 @@
 - > [Лекция от MIT](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-8-object-oriented-programming/)
 
 ### Python
-[Магические методы](https://rszalski.github.io/magicmethods/)
+- > [Магические методы](https://rszalski.github.io/magicmethods/)
     -[Русский перевод статьи](https://habr.com/ru/articles/186608/)
     
 - > [Битовые операции](https://timeweb.cloud/tutorials/python/pobitovye-operatory-python-rukovodstvo)
