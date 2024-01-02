@@ -43,12 +43,12 @@
 - > [Лекция от MIT](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/resources/lecture-8-object-oriented-programming/)
 
 ### Python
-- > [Магические методы](https://rszalski.github.io/magicmethods/)
+1. [Магические методы](https://rszalski.github.io/magicmethods/)
     - [Русский перевод статьи](https://habr.com/ru/articles/186608/)
     
-- > [Битовые операции](https://timeweb.cloud/tutorials/python/pobitovye-operatory-python-rukovodstvo)
-- > [Как устроены итераторы и генераторы в Python](https://habr.com/ru/articles/337314/)
-- > Что такое декоратор?
+2. [Битовые операции](https://timeweb.cloud/tutorials/python/pobitovye-operatory-python-rukovodstvo)
+3. [Как устроены итераторы и генераторы в Python](https://habr.com/ru/articles/337314/)
+4. Что такое декоратор?
   - [Как работает декоратор](https://thecode.media/decorator/)
   - [Как работает декоратор, вторая часть](https://pavel-karateev.gitbook.io/intermediate-python/dekoratory/decorators)
   - [Как работает память](https://realpython.com/python-memory-management/)
