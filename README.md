@@ -2,28 +2,22 @@
 ![silicon](https://www.kino-teatr.ru/art/3591/43340.jpg)
 
 ## Структура
-- ### Сеть
+- ### [Сеть](#сеть)
     - [Что такое HTTP протокол](#http-протокол)
 - ### Веб-разработка  
     - #### Django
-        - [Документация](#django)
-        - [Плейлист по веб-разработке на Django от VK team](#django)
     - #### [ORM](#orm)
 - ### [SQL](#sql)
-- ### Парадигмы программирования
-    - [Объектно-ориентированное программирование](#ооп)
-- ### Python
-    - [Магические методы](#python)
-    - [Битовые операции](#python)
-- ### Структуры данных
-    - [Хеш-таблицы](#хеш-таблицы)
-    - [Деревья](#деревья)
+- ### [Объектно-ориентированное программирование](#ооп)
+- ### [Python](#python)
+- ### [Структуры данных](#структурыданных)
 -------------------------------------------------
 
-### HTTP протокол
-- > [История разваития HTTP и немного о нём](https://cs.fyi/guide/http-in-depth)
-- > [Материал от Cloudefire](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
-- > [Полное объяснение от Mozilla](https://developer.mozilla.org/ru/docs/Web/HTTP/Overview)
+## Сеть 
+        HTTP протокол
+    - > [История разваития HTTP и немного о нём](https://cs.fyi/guide/http-in-depth)
+    - > [Материал от Cloudefire](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
+    - > [Полное объяснение от Mozilla](https://developer.mozilla.org/ru/docs/Web/HTTP/Overview)
   
 ### Django
 - > [Документация](https://docs.djangoproject.com/en/4.2/)
