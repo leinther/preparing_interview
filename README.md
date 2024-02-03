@@ -14,7 +14,7 @@
 -------------------------------------------------
 
 ## Сеть 
-    - HTTP протокол
+- HTTP протокол
     - > [История разваития HTTP и немного о нём](https://cs.fyi/guide/http-in-depth)
     - > [Материал от Cloudefire](https://www.cloudflare.com/en-gb/learning/ddos/glossary/hypertext-transfer-protocol-http/)
     - > [Полное объяснение от Mozilla](https://developer.mozilla.org/ru/docs/Web/HTTP/Overview)
