@@ -62,9 +62,5 @@
     - [Создание хеш-таблицы](https://realpython.com/python-hash-table/#build-a-hash-table-prototype-in-python-with-tdd)
     - [Хеш-таблицы (решение коллизии с помощью цепочек)](https://www.geeksforgeeks.org/implementation-of-hash-table-in-python-using-separate-chaining/)
 
-|   |   | [История разваития HTTP и немного о нём](https://cs.fyi/guide/http-in-depth) |   |   |   |
-|---|---|------------------------------------------------------------------------------|---|---|---|
-|   |   |                                                                              |   |   |   |
-|   |   |                                                                              |   |   |   |
-|   |   |                                                                              |   |   |   |
+
 
