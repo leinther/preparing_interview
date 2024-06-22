@@ -51,9 +51,9 @@
 4. Что такое декоратор?
       - [Как работает декоратор](https://thecode.media/decorator/)
       - [Как работает декоратор, вторая часть](https://pavel-karateev.gitbook.io/intermediate-python/dekoratory/decorators)
-      - [Как работает память](https://realpython.com/python-memory-management/)
+5. [Как работает память](https://realpython.com/python-memory-management/)
   
-
+-----------------------------------------------------------------------------------------------------------------
 ### Структуры данных
 1. Деревья
     - [Обход деревьев](https://medium.com/@dimko1/%D0%B0%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D1%8B-%D0%BE%D0%B1%D1%85%D0%BE%D0%B4-%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%B0-ed54848c2d47)
