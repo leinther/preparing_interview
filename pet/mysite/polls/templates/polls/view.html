@@ -1,0 +1,7 @@
+
+<ul>
+    {% for i in photo %}
+    <h1> {{i.title}} </h1>
+    <img src="{{ i.file.url }}" width="200" height="341" >  
+    {% endfor %}
+  </ul>
