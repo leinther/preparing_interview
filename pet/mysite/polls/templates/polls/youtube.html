@@ -1,0 +1,8 @@
+<ul>
+    {% for i in video %}
+    <h1> {{i.title_video}} </h1>
+    <video widht = "300" height = "300" controls>
+      <source src="{{i.url.url}}" type="video/mp4">
+    </video>
+    {% endfor %}
+  </ul>

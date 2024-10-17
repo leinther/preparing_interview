@@ -1,0 +1,14 @@
+{% load static %}
+
+<link rel="stylesheet" href="{% static 'polls/style.css' %}">
+
+<form action="{% url 'polls:vote' question.id %}" mehtod="post">
+    {% csrf_token %}
+    <fieldset>
+        <legend><h1>{{ question.question_text }}</h1></legend>
+        {% if error_message %}<p><strong>{{ error_message }}</strong></p>{% endif %}
+        <h1> {{question.answer}}</h1>
+    </fieldset>
+    <input type="submit" value="Vote">
+    </form>
+
